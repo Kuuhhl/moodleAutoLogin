@@ -6,9 +6,11 @@
   <p align="center">Automatically log into Moodle of Goethe-Uni.</p>
 </p>
 
-## Manual Installation
+## Installation (Firefox)
 
-> :warning: Only compatible with Chromium based browsers (Google Chrome, Chromium, Microsoft Edge, Vivaldi, Brave, ...)
+This extension is available on the [Firefox-Addons](https://addons.mozilla.org/en-US/firefox/addon/moodle-autologin/)-Store.
+
+## Manual Installation (Chromium)
 
 1. Download the [latest release](https://github.com/Kuuhhl/moodleAutoLogin/releases/) `.crx` file.
 2. Unpack it (like you would a `.zip`-file).
