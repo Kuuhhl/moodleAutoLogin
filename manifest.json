@@ -26,5 +26,10 @@
 				"https://ssl.studiumdigitale.uni-frankfurt.de/cas/login*"
 			]
 		}
-	]
+	],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "firefox@moodleAutologin"
+		}
+	}
 }
