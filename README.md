@@ -8,7 +8,10 @@
 
 ## Installation
 
-This extension is available on the [Firefox-Addons](https://addons.mozilla.org/en-US/firefox/addon/moodle-autologin/)-Store and the [Chrome Web-Store](https://chrome.google.com/webstore/detail/moodle-autologin/hlnoapoheegphigdgnaaadilghfecdgh).
+This extension is available on the [Chrome Web-Store](https://chrome.google.com/webstore/detail/moodle-autologin/hlnoapoheegphigdgnaaadilghfecdgh). 
+
+It also works with Firefox, however Mozilla did not yet approve it in their Addon-Store. 
+Depending on their final decision, I might distribute a Mozilla-signed `.xpi`-version instead.
 
 ## Usage
 
@@ -17,3 +20,7 @@ This extension is available on the [Firefox-Addons](https://addons.mozilla.org/e
 3. If necessary, accept the addon's permissions.
 
 Now the extension should automatically log you in!
+
+### Notes for Firefox
+
+If your browser is older than version 109, you have to set `extensions.manifestV3.enabled` to `true` in `about:config` to be able to install this addon.
