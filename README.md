@@ -6,12 +6,10 @@
   <p align="center">Automatically log into Moodle of Goethe-Uni.</p>
 </p>
 
-## Installation
-
-This extension is available on the [Chrome Web-Store](https://chrome.google.com/webstore/detail/moodle-autologin/hlnoapoheegphigdgnaaadilghfecdgh). 
-
-It also works with Firefox, however Mozilla did not yet approve it in their Addon-Store. 
-Depending on their final decision, I might distribute a Mozilla-signed `.xpi`-version instead.
+<div align="center">
+<a href="https://chrome.google.com/webstore/detail/moodle-autologin/hlnoapoheegphigdgnaaadilghfecdgh"><img style="width: 25%;" src="resources/chrome_badge.png"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/moodle-autologin/"><img style="width: 25%;"src="resources/firefox_badge.png"></a>
+</div>
 
 ## Usage
 

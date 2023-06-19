@@ -1,6 +1,13 @@
 body {
-    background-color: #222;
-    color: #eee;
-    width: 16rem;
-    height: 4rem;
+	width: 16rem;
+	height: 4rem;
+}
+.error {
+	color: red;
+}
+#success {
+	display: none;
+}
+#success h2 {
+	color: green;
 }
